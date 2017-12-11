@@ -1,2 +1,4 @@
 # Muscl-and-kurganov
-Simulation of Numerical schemes
+Simulation of a Numerical scheme
+
+My name is Bond, James Bond!
