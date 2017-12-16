@@ -21,7 +21,7 @@ dt = cfl * dx / max(abs(unp1));
 dt = min(dt, t_max-t);
 
 
-%lets Hope
+%lets Hope always
 plot(x_cells,unp1);
 shg
 %pause(dt)  
